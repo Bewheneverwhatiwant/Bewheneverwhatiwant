@@ -15,7 +15,9 @@
 
 <h3 align="center"><b>🛠 제가 쓸 수 있는 기술들입니당🛠</b></h3>
 </br>
-<p align="center" style="display: flex"> !!언어, 프레임워크, 환경!!</p>
+<p align="center"> !!언어, 프레임워크, 환경!!</p>
+
+<div style="display: flex; align:center;">
 <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/> &nbsp
@@ -30,11 +32,16 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
+  </div>
 
-<p align="center" style="display: flex"> !!협업툴!!</p>
+<p align="left" style="display: flex"> +협업툴+</p>
+<div style="display: flex; align:center;">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> &nbsp
+  </div>
+  
+  <p align="center"> Contact me here: lny021102@gmail.com</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
