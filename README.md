@@ -27,8 +27,11 @@
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=DJango&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
