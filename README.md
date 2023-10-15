@@ -2,12 +2,12 @@
 
 <h3 align="center"><b>console.log("안녕하세요");</b></h3>
 
-<p align="center">printf("독일어통번역 전공, 컴퓨터공학 이중전공 프론트엔드 개발자 이나영입니다!");</p>
+<p align="center">printf("독일어통번역을 1전공으로 하고, 컴퓨터공학을 이중전공하고 있는 이나영입니다!");</p>
 
 <br>
 
 <h3 align="center">누워서 코딩하기, 동료들에게 코드 리뷰 받기, 구글링이 취미입니다</h3>
-<p align="center">💪숨쉬고 손가락을 움직이는 운동이 제일 좋습니다,&nbsp;&nbsp; 💻프론트엔드 외 백엔드, 게임 프로그래밍도 흥미롭습니다,&nbsp;&nbsp;🎥영화보는 것도 좋아합니다,&nbsp;&nbsp;</p>
+<p align="center">💪숨쉬고 손가락을 움직이는 운동이 제일 좋습니다,&nbsp;&nbsp; 💻프론트엔드, 백엔드, 게임 프로그래밍에 흥미가 있어요,&nbsp;&nbsp;🎥영화보는 것도 좋아합니다,&nbsp;&nbsp;</p>
 <p align="center">✈️분야를 정해놓고 배우기보다는 배울 수 있는 모든 걸 도전하고 배우는 걸 좋아합니다&nbsp;&nbsp;</p>
 
 <br>
@@ -48,11 +48,10 @@
   <br>
   
 <h3 align="center"> #소속# </h3>
-<p align="center"> HUFS GDSC(google developer student club), for study 2022~2023 </p>
-<p align="center"> HUFS HUFStory, for study 2022~2023 </p>
-<p align="center"> HUFS LikeLion_11, for study and project 2023 </p>
-<p align="center"> GO SOPT_32, for study and project 2023 </p>
-<p align="center"> HUFS Gnuvil, for study 2023 </p>
+<p align="center"> HUFS GDSC(google developer student club) </p>
+<p align="center"> HUFS LikeLion_11 </p>
+<p align="center"> GO SOPT_32 </p>
+<p align="center"> HUFS Gnuvil </p>
 
 <br>
 <br>
