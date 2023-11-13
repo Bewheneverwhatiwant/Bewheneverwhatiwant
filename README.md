@@ -1,21 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
 
-<h3 align="center"><b>console.log("안녕하세요");</b></h3>
+<h3 align="center"><b>console.log("HELLO");</b></h3>
 
-<p align="center">printf("독일어통번역을 1전공으로 하고, 컴퓨터공학을 이중전공하고 있는 이나영입니다!");</p>
-
-<br>
-
-<h3 align="center">누워서 코딩하기, 동료들에게 코드 리뷰 받기, 구글링이 취미입니다</h3>
-<p align="center">💪숨쉬고 손가락을 움직이는 운동이 제일 좋습니다,&nbsp;&nbsp; 💻프론트엔드, 백엔드, 게임 프로그래밍에 흥미가 있어요,&nbsp;&nbsp;</p>
-<p align="center">✈️분야를 정해놓고 배우기보다는 배울 수 있는 모든 걸 도전하고 배우는 걸 좋아합니다&nbsp;&nbsp;</p>
+<p align="center">printf("I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus. My minor is Computer science engineering.");</p>
 
 <br>
+
+<p align="center">💻I love web/app frontend, backend, game programming etc...&nbsp;&nbsp;</p>
+<p align="center">✈️I prefer challenging myself to learn everything I can, rather than sticking to a specific field.&nbsp;&nbsp;</p>
+
+<br>
 <br>
 
-<h3 align="center"><b>🛠 제가 쓸 수 있는 기술들입니당🛠</b></h3>
+<h3 align="center"><b>🛠 My stack Info 🛠</b></h3>
 </br>
-<p align="center"> !!언어, 프레임워크, 환경!!</p>
 
 <div style="display: flex; text-align:center;">
 <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/> &nbsp
@@ -39,7 +37,7 @@
   
   <br>
 
-<p align="center" style="display: flex"> +협업툴+</p>
+<p align="center" style="display: flex"> +other thing...+</p>
 <div style="display: flex; text-align:center;">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> &nbsp
@@ -50,7 +48,7 @@
   <br>
   <br>
   
-<h3 align="center"> #소속# </h3>
+<h3 align="center"> #I belong to...# </h3>
 <p align="center"> HUFS GDSC(google developer student club) </p>
 <p align="center"> HUFS LikeLion_11 </p>
 <p align="center"> GO SOPT_32 </p>
