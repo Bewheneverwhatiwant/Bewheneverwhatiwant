@@ -2,7 +2,7 @@
 
 <h3 align="center"><b>console.log("HELLO");</b></h3>
 
-<p align="center">printf("I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus.");</p>
+<p align="center">I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus.</p>
 <p align="center">My minor is Computer science engineering.</p>
 <br>
 <br>
@@ -42,7 +42,7 @@
   <tr>
     <td>MZARAR</td>
     <td>Gyeonggi Metaverse Hackathon</td>
-     <td>React</td>
+     <td>Unity, React</td>
     <td>Frontend follower</td>
   </tr>
   <tr>
