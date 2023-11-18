@@ -3,6 +3,42 @@
 <h3 align="center"><b>console.log("HELLO");</b></h3>
 
 <p align="center">printf("I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus. My minor is Computer science engineering.");</p>
+<br>
+<br>
+
+<table align="center">
+  <h3 align="center"><b>What i have done so far...</b></h3>
+  <tr>
+    <td>Project Name</td>
+    <td>Hosted By</td>
+    <td>My Position</td>
+  </tr>
+  <tr>
+    <td>빈 강의실 찾기</td>
+    <td>OOP Subject, 2022 2nd Semester</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>버스언제와</td>
+    <td>LikeLion 6th Team Project</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>은빛시장</td>
+    <td>LikeLion Central Hackathon</td>
+    <td>Backend Leader</td>
+  </tr>
+  <tr>
+    <td>Remember</td>
+    <td>Ganji-ton - Union Hackathon</td>
+    <td>Leader</td>
+  </tr>
+  <tr>
+    <td>MZARAR</td>
+    <td>Gyeonggi Metaverse Hackathon</td>
+    <td>-</td>
+  </tr>
+</table>
 
 <br>
 
@@ -34,7 +70,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
   </div>
-  
+
   <br>
 
 <p align="center" style="display: flex"> +other thing...+</p>
@@ -53,6 +89,9 @@
 <p align="center"> HUFS LikeLion_11 </p>
 <p align="center"> GO SOPT_32 </p>
 <p align="center"> HUFS Gnuvil </p>
+
+
+
 
 <br>
 <br>
