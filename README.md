@@ -2,7 +2,8 @@
 
 <h3 align="center"><b>console.log("HELLO");</b></h3>
 
-<p align="center">printf("I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus. My minor is Computer science engineering.");</p>
+<p align="center">printf("I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus.");</p>
+<p align="center">My minor is Computer science engineering.</p>
 <br>
 <br>
 
@@ -11,32 +12,44 @@
   <tr>
     <td>Project Name</td>
     <td>Hosted By</td>
+     <td>Tool</td>
     <td>My Position</td>
   </tr>
   <tr>
     <td>빈 강의실 찾기</td>
     <td>OOP Subject, 2022 2nd Semester</td>
-    <td>-</td>
+     <td>JAVA</td>
+    <td>Frontend follower</td>
   </tr>
   <tr>
     <td>버스언제와</td>
     <td>LikeLion 6th Team Project</td>
-    <td>-</td>
+     <td>DJango</td>
+    <td>Frontend follower</td>
   </tr>
   <tr>
     <td>은빛시장</td>
     <td>LikeLion Central Hackathon</td>
+     <td>DJango</td>
     <td>Backend Leader</td>
   </tr>
   <tr>
     <td>Remember</td>
     <td>Ganji-ton - Union Hackathon</td>
-    <td>Leader</td>
+     <td>React</td>
+    <td>Team Leader</td>
   </tr>
   <tr>
     <td>MZARAR</td>
     <td>Gyeonggi Metaverse Hackathon</td>
-    <td>-</td>
+     <td>React</td>
+    <td>Frontend follower</td>
+  </tr>
+  <tr>
+    <td>TATOoYOu</td>
+    <td>LikeLion 2nd Semester Team project</td>
+     <td>React</td>
+    <td>Frontend follower</td>
   </tr>
 </table>
 
