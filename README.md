@@ -46,7 +46,7 @@
     <td>Frontend follower</td>
   </tr>
   <tr>
-    <td>TATOoYOu</td>
+    <td>TATTOoYOu</td>
     <td>LikeLion 2nd Semester Team project</td>
      <td>React</td>
     <td>Frontend follower</td>
@@ -64,30 +64,51 @@
 <h3 align="center"><b>🛠 My stack Info 🛠</b></h3>
 </br>
 
-<div style="display: flex; text-align:center;">
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Java-092E20?style=flat-square&logo=Java&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
+<h3 align="center"><b>Frontend</b></h3>
+<div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
+</div>
+<br>
+<h3 align="center"><b>Backend</b></h3>
+<div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=DJango&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
+  </div>
+  <br>
+<h3 align="center"><b>Server</b></h3>
+<div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
   </div>
+<br>
+  <h3 align="center"><b>Game</b></h3>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
+</div>
+<br>
+  <h3 align="center"><b>Basic</b></h3>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Java-092E20?style=flat-square&logo=Java&logoColor=white"/> &nbsp
+</div>
 
   <br>
 
-<p align="center" style="display: flex"> +other thing...+</p>
-<div style="display: flex; text-align:center;">
+<p align="center" style="display: flex"> + Collaborative Software +</p>
+<div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp
