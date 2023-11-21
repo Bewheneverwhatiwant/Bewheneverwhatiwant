@@ -2,8 +2,8 @@
 
 <h3 align="center"><b>console.log("HELLO");</b></h3>
 
-<p align="center">I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus.</p>
-<p align="center">My minor is Computer science engineering.</p>
+<p align="center">:eagle:I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus.:eagle:</p>
+<p align="center">💻My minor is Computer science engineering.💻</p>
 <br>
 <br>
 
@@ -80,6 +80,7 @@
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=DJango&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/> &nbsp
+<p align="center">(Things to learn:)&nbsp;&nbsp;</p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
   </div>
   <br>
@@ -87,9 +88,11 @@
 <div style="display: flex; justify-content: center;" align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> &nbsp
+<p align="center">(Things to learn:)&nbsp;&nbsp;</p>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
   </div>
 <br>
   <h3 align="center"><b>Game</b></h3>
@@ -105,6 +108,7 @@
 <img src="https://img.shields.io/badge/Java-092E20?style=flat-square&logo=Java&logoColor=white"/> &nbsp
 </div>
 
+  <br>
   <br>
 
 <p align="center" style="display: flex"> + Collaborative Software +</p>
