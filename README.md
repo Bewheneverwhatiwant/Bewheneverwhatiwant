@@ -65,7 +65,7 @@
 </br>
 
 <h3 align="center"><b>Frontend</b></h3>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;" align="center">
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
@@ -76,7 +76,7 @@
 </div>
 <br>
 <h3 align="center"><b>Backend</b></h3>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;" align="center">
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=DJango&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/> &nbsp
@@ -84,7 +84,7 @@
   </div>
   <br>
 <h3 align="center"><b>Server</b></h3>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;" align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
@@ -93,12 +93,12 @@
   </div>
 <br>
   <h3 align="center"><b>Game</b></h3>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;" align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
 </div>
 <br>
   <h3 align="center"><b>Basic</b></h3>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;" align="center">
   <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> &nbsp
@@ -108,7 +108,7 @@
   <br>
 
 <p align="center" style="display: flex"> + Collaborative Software +</p>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;" align="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp
