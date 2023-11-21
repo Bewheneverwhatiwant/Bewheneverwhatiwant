@@ -93,6 +93,9 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp
   </div>
 <br>
   <h3 align="center"><b>Game</b></h3>
