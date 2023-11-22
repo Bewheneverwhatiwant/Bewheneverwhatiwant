@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HUFS%20Germany%20Computer%20Nayeong&fontSize=50&animation=twinkling&text-color=black)
 
 <h3 align="center"><b>console.log("HELLO");</b></h3>
 
