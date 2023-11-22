@@ -73,6 +73,11 @@
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>&nbsp
+<p align="center">(Things to learn:)&nbsp;&nbsp;</p>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>&nbsp
 </div>
 <br>
 <h3 align="center"><b>Backend</b></h3>
