@@ -2,7 +2,7 @@
 
 <h3 align="center"><b>console.log("HELLO");</b></h3>
 
-<p align="center">:eagle:I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus.:eagle:</p>
+<p align="center">I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus.</p>
 <p align="center">💻My minor is Computer science engineering.💻</p>
 <br>
 <br>
@@ -57,6 +57,12 @@
      <td>React</td>
     <td>Frontend follower</td>
   </tr>
+  <tr>
+    <td>PPT TO PDF</td>
+    <td>Personal</td>
+     <td>React, Node.JS</td>
+    <td>Personal</td>
+  </tr>
 </table>
 
 <br>
@@ -91,7 +97,6 @@
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=DJango&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/> &nbsp
-<p align="center">(Things to learn:)&nbsp;&nbsp;</p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
   </div>
   <br>
@@ -100,10 +105,14 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> &nbsp
-<p align="center">(Things to learn:)&nbsp;&nbsp;</p>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=NaverCloud&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Certbot-0066FF?style=flat-square&logo=Certbot&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/MyLocalPhysicalServer-0066FF?style=flat-square&logo=MyLocalPhysicalServer&logoColor=white"/> &nbsp
+<p align="center">(Things to learn:)&nbsp;&nbsp;</p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp
@@ -112,6 +121,13 @@
   <h3 align="center"><b>Game</b></h3>
 <div style="display: flex; justify-content: center;" align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
+</div>
+<br>
+ <h3 align="center"><b>AI</b></h3>
+<div style="display: flex; justify-content: center;" align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> &nbsp
 </div>
 <br>
   <h3 align="center"><b>Basic</b></h3>
