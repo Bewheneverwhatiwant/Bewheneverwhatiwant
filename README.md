@@ -63,6 +63,24 @@
      <td>React, Node.JS</td>
     <td>Personal</td>
   </tr>
+   <tr>
+    <td>Welcome Kit</td>
+    <td>LikeLion Welcome Kit Project</td>
+     <td>React</td>
+    <td>Frontend Follower</td>
+  </tr>
+   <tr>
+    <td>Dr.Law</td>
+    <td>2024 Prometheus AI Hackathon</td>
+     <td>React</td>
+    <td>Frontend Follower</td>
+  </tr>
+   <tr>
+    <td>Ari Ari</td>
+    <td>HUFS Better World Project</td>
+     <td>React</td>
+    <td>Personal</td>
+  </tr>
 </table>
 
 <br>
@@ -154,9 +172,9 @@
   
 <h3 align="center"> #I belong to...# </h3>
 <p align="center"> HUFS GDSC(google developer student club) </p>
-<p align="center"> HUFS LikeLion_11 </p>
+<p align="center"> HUFS LikeLion_11 (Baby Lion) </p>
+<p align="center"> HUFS LikeLion_12 (Manager Lion) </p>
 <p align="center"> GO SOPT_32 </p>
-<p align="center"> HUFS Gnuvil </p>
 
 
 
