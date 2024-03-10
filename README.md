@@ -183,10 +183,10 @@
   <br>
   
 <h3 align="center"> #I belong to...# </h3>
-<p align="center"> HUFS GDSC(google developer student club) </p>
-<p align="center"> HUFS LikeLion_11 (Baby Lion) </p>
-<p align="center"> HUFS LikeLion_12 (Manager Lion) </p>
-<p align="center"> GO SOPT_32 </p>
+<p align="center"> 2022-2023 HUFS GDSC(google developer student club) </p>
+<p align="center"> 2023 HUFS Gnuvil Web Part </p>
+<p align="center"> 2023 HUFS LikeLion_11 Frontend Part(Baby Lion) </p>
+<p align="center"> GO SOPT_32 Android Part </p>
 
 
 
