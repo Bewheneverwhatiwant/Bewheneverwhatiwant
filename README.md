@@ -99,6 +99,12 @@
      <td>React, Docker</td>
     <td>Team Leader</td>
   </tr>
+   <tr>
+    <td>Battle For Us</td>
+    <td>HUFSummer Hackathon</td>
+     <td>React + Vite</td>
+    <td>Team Leader</td>
+  </tr>
 </table>
 
 <br>
