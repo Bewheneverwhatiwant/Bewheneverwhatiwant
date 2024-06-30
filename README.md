@@ -34,12 +34,6 @@
     <td>Backend Leader</td>
   </tr>
   <tr>
-    <td>Remember</td>
-    <td>Ganji-ton - Union Hackathon</td>
-     <td>React</td>
-    <td>Team Leader</td>
-  </tr>
-  <tr>
     <td>MZARAR</td>
     <td>Gyeonggi Metaverse Hackathon</td>
      <td>Unity, React</td>
@@ -64,37 +58,13 @@
     <td>Personal</td>
   </tr>
    <tr>
-    <td>Welcome Kit</td>
-    <td>LikeLion Welcome Kit Project</td>
-     <td>React</td>
-    <td>Frontend Follower</td>
-  </tr>
-   <tr>
     <td>Dr.Law</td>
     <td>2024 Prometheus AI Hackathon</td>
      <td>React</td>
     <td>Frontend Follower</td>
   </tr>
    <tr>
-    <td>Ari Ari</td>
-    <td>HUFS Better World Project</td>
-     <td>React</td>
-    <td>Personal</td>
-  </tr>
-   <tr>
-    <td>LoveLetter</td>
-    <td>Personal</td>
-     <td>React</td>
-    <td>Personal</td>
-  </tr>
-   <tr>
-    <td>DeveloBoo</td>
-    <td>Personal</td>
-     <td>React</td>
-    <td>Personal</td>
-  </tr>
-   <tr>
-    <td>Help My Document</td>
+    <td>내 문서를 부탁해</td>
     <td>LikeLion 4team Mini Project</td>
      <td>React, Docker</td>
     <td>Team Leader</td>
