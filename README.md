@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>버스언제와</td>
-    <td>LikeLion 6th Team Project</td>
+    <td>LikeLion 6Team Project</td>
      <td>DJango</td>
     <td>Frontend follower</td>
   </tr>
