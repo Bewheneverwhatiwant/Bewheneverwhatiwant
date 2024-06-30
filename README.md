@@ -58,6 +58,12 @@
     <td>Personal</td>
   </tr>
    <tr>
+    <td>웰컴키트</td>
+    <td>Likelion welcomekit for 12th</td>
+     <td>React</td>
+    <td>Frontend Follower</td>
+  </tr>
+   <tr>
     <td>Dr.Law</td>
     <td>2024 Prometheus AI Hackathon</td>
      <td>React</td>
