@@ -81,6 +81,18 @@
      <td>React + Vite</td>
     <td>Team Leader</td>
   </tr>
+    <tr>
+    <td>Factoria!</td>
+    <td>SPARCS StartUp AI Hackathon</td>
+     <td>Flutter</td>
+    <td>Team Leader</td>
+  </tr>
+   <tr>
+    <td>Yello</td>
+    <td>LikeLion Central Hackathon</td>
+     <td>Kotlin, Reat + Vite</td>
+    <td>Team Leader</td>
+  </tr>
 </table>
 
 <br>
