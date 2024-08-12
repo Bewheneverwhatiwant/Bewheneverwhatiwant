@@ -186,6 +186,7 @@
 <p align="center"> 2022-2023 HUFS GDSC(google developer student club) </p>
 <p align="center"> 2023 HUFS Gnuvil Web Part </p>
 <p align="center"> 2023 HUFS LikeLion_11 Frontend Part(Baby Lion) </p>
+<p align="center"> 2024 HUFS LikeLion_12 Frontend Part(Adult Lion) </p>
 <p align="center"> GO SOPT_32 Android Part </p>
 
 
