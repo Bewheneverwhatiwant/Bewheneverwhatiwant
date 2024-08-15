@@ -93,6 +93,12 @@
      <td>Kotlin, Reat + Vite</td>
     <td>Team Leader</td>
   </tr>
+    <tr>
+    <td>항해</td>
+    <td>2024 3th Public Data Contest</td>
+     <td>Flutter</td>
+    <td>Frontend Leader</td>
+  </tr>
 </table>
 
 <br>
