@@ -4,7 +4,7 @@
 <br>
 
 <table align="center">
-  <h3 align="center"><b>My Info</b></h3>
+  <h2 align="center"><b>My Info</b></h3>
   <tr>
     <td>name</td>
     <td>University</td>
@@ -21,11 +21,11 @@
 <p align="center">contact me here : lny021102@gmail.com</p>
 
 <br />
-<h3 align="center"><b>🛠 Main skill 🛠</b></h3>
+<h2 align="center"><b>🛠 Main skill 🛠</b></h3>
 <br />
 
-<h3 align="center"><b>Frontend Framework</b></h3>
-<div style="display: flex; justify-content: center;" align="center">
+<h3 align="start"><b>Frontend Framework</b></h3>
+<div style="display: flex; justify-content: center;" align="flex-start">
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
@@ -34,8 +34,8 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </div>
 
-<h3 align="center"><b>Frontend Language</b></h3>
-<div style="display: flex; justify-content: center;" align="center">
+<h3 align="end"><b>Frontend Language</b></h3>
+<div style="display: flex; justify-content: center;" align="flex-start">
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -49,7 +49,7 @@
   <br>
 
 <table align="center">
-  <h3 align="center"><b>Project history</b></h3>
+  <h2 align="center"><b>Project history</b></h3>
   <tr>
     <td>Project Name</td>
     <td>Hosted By</td>
@@ -150,7 +150,7 @@
   <br>
 
 <table align="center">
-  <h3 align="center"><b>Club history</b></h3>
+  <h2 align="center"><b>Club history</b></h3>
   <tr>
     <td>Club Name</td>
     <td>Duration</td>
@@ -183,14 +183,16 @@
   </tr>
 </table>
 
-<p align="center" style="display: flex"> + Collaborative Software +</p>
+<br />
+
+<h2 align="center" style="display: flex"> + Collaborative Software +</h2>
 <div style="display: flex; justify-content: center;" align="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Jira-#0052CC?style=flat-square&logo=Jira&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> &nbsp
   </div>
   
   <br>
