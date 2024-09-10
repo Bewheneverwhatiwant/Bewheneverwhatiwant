@@ -25,8 +25,7 @@
 <br />
 
 <h3 align="start"><b>Frontend Framework</b></h3>
-<div style="display: flex; justify-content: center;" align="flex-start">
-
+<div style="display: flex; justify-content: flex-start;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
@@ -34,8 +33,8 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </div>
 
-<h3 align="end"><b>Frontend Language</b></h3>
-<div style="display: flex; justify-content: center;" align="flex-start">
+<h3 align="start"><b>Frontend Language</b></h3>
+<div style="display: flex; justify-content: flex-end;">
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
