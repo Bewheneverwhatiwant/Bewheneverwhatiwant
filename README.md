@@ -18,7 +18,7 @@
     <td>Computer engineering</td>
   </tr>
 </table>
-<p>contact me here : lny021102@gmail.com</p>
+<p align="center">contact me here : lny021102@gmail.com</p>
 
 <br />
 <h3 align="center"><b>🛠 Main skill 🛠</b></h3>
@@ -190,6 +190,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Jira-#0052CC?style=flat-square&logo=Jira&logoColor=white"/> &nbsp
   </div>
   
   <br>
