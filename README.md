@@ -1,14 +1,55 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HUFS%20Germany%20Computer%20Nayeong&fontSize=50&animation=twinkling&text-color=black)
 
-<h3 align="center"><b>console.log("HELLO");</b></h3>
-
-<p align="center">I'm Nayeong Lee and I major German translation and interpretation in HUFS global campus.</p>
-<p align="center">💻My minor is Computer science engineering.💻</p>
 <br>
 <br>
 
 <table align="center">
-  <h3 align="center"><b>What i have done so far...</b></h3>
+  <h3 align="center"><b>My Info</b></h3>
+  <tr>
+    <td>name</td>
+    <td>University</td>
+     <td>major</td>
+    <td>Mminor</td>
+  </tr>
+  <tr>
+    <td>Nayeong-Lee</td>
+    <td>HUFS Global campus</td>
+     <td>German translation and interpretation</td>
+    <td>Computer engineering</td>
+  </tr>
+</table>
+<p>contact me here : lny021102@gmail.com</p>
+
+<br />
+<h3 align="center"><b>🛠 Main skill 🛠</b></h3>
+<br />
+
+<h3 align="center"><b>Frontend Framework</b></h3>
+<div style="display: flex; justify-content: center;" align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+</div>
+
+<h3 align="center"><b>Frontend Language</b></h3>
+<div style="display: flex; justify-content: center;" align="center">
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-092E20?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/javacript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</div>
+
+  <br>
+
+<table align="center">
+  <h3 align="center"><b>Project history</b></h3>
   <tr>
     <td>Project Name</td>
     <td>Hosted By</td>
@@ -99,83 +140,48 @@
      <td>Flutter</td>
     <td>Frontend Leader</td>
   </tr>
+  <tr>
+    <td>New Simplify React With Vite</td>
+    <td>NPM package upload</td>
+     <td>React + Vite</td>
+    <td>myself</td>
+  </tr>
 </table>
-
-<br>
-
-<p align="center">💻I love web/app frontend, backend, game programming etc...&nbsp;&nbsp;</p>
-<p align="center">✈️I prefer challenging myself to learn everything I can, rather than sticking to a specific field.&nbsp;&nbsp;</p>
-
-<br>
-<br>
-
-<h3 align="center"><b>🛠 My stack Info 🛠</b></h3>
-</br>
-
-<h3 align="center"><b>Frontend</b></h3>
-<div style="display: flex; justify-content: center;" align="center">
-<img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>&nbsp
-<p align="center">(Things to learn:)&nbsp;&nbsp;</p>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>&nbsp
-</div>
-<br>
-<h3 align="center"><b>Backend</b></h3>
-<div style="display: flex; justify-content: center;" align="center">
-<img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=DJango&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
-  </div>
   <br>
-<h3 align="center"><b>Server</b></h3>
-<div style="display: flex; justify-content: center;" align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=NaverCloud&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Certbot-0066FF?style=flat-square&logo=Certbot&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/MyLocalPhysicalServer-0066FF?style=flat-square&logo=MyLocalPhysicalServer&logoColor=white"/> &nbsp
-<p align="center">(Things to learn:)&nbsp;&nbsp;</p>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp
-  </div>
-<br>
-  <h3 align="center"><b>Game</b></h3>
-<div style="display: flex; justify-content: center;" align="center">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
-</div>
-<br>
- <h3 align="center"><b>AI</b></h3>
-<div style="display: flex; justify-content: center;" align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> &nbsp
-</div>
-<br>
-  <h3 align="center"><b>Basic</b></h3>
-<div style="display: flex; justify-content: center;" align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Java-092E20?style=flat-square&logo=Java&logoColor=white"/> &nbsp
-</div>
 
-  <br>
-  <br>
+<table align="center">
+  <h3 align="center"><b>Club history</b></h3>
+  <tr>
+    <td>Club Name</td>
+    <td>Duration</td>
+     <td>belong to</td>
+  </tr>
+  <tr>
+    <td>GDSC HUFS</td>
+    <td>2022.09 ~ 2023.03</td>
+     <td>University</td>
+  </tr>
+   <tr>
+    <td>LikeLion 11th</td>
+    <td>2023.01 ~ 2023.12</td>
+     <td>University</td>
+  </tr>
+   <tr>
+    <td>SOPT 32th androis</td>
+    <td>2023.03 ~ 2023.07</td>
+     <td>Other</td>
+  </tr>
+   <tr>
+    <td>Gnuvil</td>
+    <td>2023.03 ~ 2023.07</td>
+     <td>University</td>
+  </tr>
+   <tr>
+    <td>LikeLion 12th</td>
+    <td>2024.01 ~ 2024.12</td>
+     <td>University</td>
+  </tr>
+</table>
 
 <p align="center" style="display: flex"> + Collaborative Software +</p>
 <div style="display: flex; justify-content: center;" align="center">
@@ -183,25 +189,12 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> &nbsp
   </div>
   
   <br>
-  <br>
-  
-<h3 align="center"> #I belong to...# </h3>
-<p align="center"> 2022-2023 HUFS GDSC(google developer student club) </p>
-<p align="center"> 2023 HUFS Gnuvil Web Part </p>
-<p align="center"> 2023 HUFS LikeLion_11 Frontend Part(Baby Lion) </p>
-<p align="center"> 2024 HUFS LikeLion_12 Frontend Part(Adult Lion) </p>
-<p align="center"> GO SOPT_32 Android Part </p>
-
-
 
 
 <br>
-<br>
-
-  
-  <p align="center"> Contact me here: lny021102@gmail.com</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
