@@ -49,31 +49,43 @@
 <table align="center">
   <h2 align="center"><b>Awards</b></h3>
   <tr>
-    <td>Hosted By</td>
+     <td>when</td>
+    <td>where</td>
     <td>project name</td>
      <td>award</td>
   </tr>
+   <tr>
+     <td>2023.10-11</td>
+    <td>경기 메타버스 해커톤</td>
+    <td>MZ-AR-AR</td>
+     <td>결선 진출</td>
+  </tr>
   <tr>
+     <td>2024.04-05</td>
     <td>LikeLion 12th 미니프로젝트</td>
     <td>내 문서를 부탁해</td>
      <td>대상</td>
   </tr>
     <tr>
+       <td>2024.06-06</td>
     <td>HUFSummer 해커톤</td>
     <td>Battle for us</td>
      <td>우수상</td>
   </tr>
    <tr>
+      <td>2024.06-08</td>
     <td>고용노동부 공공데이터 공모전</td>
     <td>항해</td>
      <td>1차합격(12팀/150팀)</td>
   </tr>
    <tr>
+      <td>2024.08-08</td>
     <td>LikeLion 12th 중앙해커톤</td>
     <td>Yello</td>
      <td>교내 3위</td>
   </tr>
    <tr>
+       <td>2024.10-11</td>
     <td>GBT 학부 주관 AI 해커톤</td>
     <td>용인시 민원처리기</td>
      <td>대상(총장성)</td>
@@ -100,7 +112,7 @@
      <td>University</td>
   </tr>
    <tr>
-    <td>SOPT 32th androis</td>
+    <td>SOPT 32th android</td>
     <td>2023.03 ~ 2023.07</td>
      <td>Other</td>
   </tr>
