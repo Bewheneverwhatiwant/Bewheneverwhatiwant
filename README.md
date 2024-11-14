@@ -46,107 +46,41 @@
 </div>
 
   <br>
-
 <table align="center">
-  <h2 align="center"><b>Project history</b></h3>
+  <h2 align="center"><b>Awards</b></h3>
   <tr>
-    <td>Project Name</td>
     <td>Hosted By</td>
-     <td>Tool</td>
-    <td>My Position</td>
+    <td>project name</td>
+     <td>award</td>
   </tr>
   <tr>
-    <td>빈 강의실 찾기</td>
-    <td>OOP Subject, 2022 2nd Semester</td>
-     <td>JAVA</td>
-    <td>Frontend follower</td>
-  </tr>
-  <tr>
-    <td>버스언제와</td>
-    <td>LikeLion 6Team Project</td>
-     <td>DJango</td>
-    <td>Frontend follower</td>
-  </tr>
-  <tr>
-    <td>은빛시장</td>
-    <td>LikeLion Central Hackathon</td>
-     <td>DJango</td>
-    <td>Backend Leader</td>
-  </tr>
-  <tr>
-    <td>MZARAR</td>
-    <td>Gyeonggi Metaverse Hackathon</td>
-     <td>Unity, React</td>
-    <td>Frontend follower</td>
-  </tr>
-  <tr>
-    <td>TATTOoYOu</td>
-    <td>LikeLion 2nd Semester Team project</td>
-     <td>React</td>
-    <td>Frontend follower</td>
-  </tr>
-   <tr>
-    <td>NA on my hand</td>
-    <td>National Assembly Public Data Contest</td>
-     <td>React</td>
-    <td>Frontend follower</td>
-  </tr>
-  <tr>
-    <td>PPT TO PDF</td>
-    <td>Personal</td>
-     <td>React, Node.JS</td>
-    <td>Personal</td>
-  </tr>
-   <tr>
-    <td>웰컴키트</td>
-    <td>Likelion welcomekit for 12th</td>
-     <td>React</td>
-    <td>Frontend Follower</td>
-  </tr>
-   <tr>
-    <td>Dr.Law</td>
-    <td>2024 Prometheus AI Hackathon</td>
-     <td>React</td>
-    <td>Frontend Follower</td>
-  </tr>
-   <tr>
+    <td>LikeLion 12th 미니프로젝트</td>
     <td>내 문서를 부탁해</td>
-    <td>LikeLion 4team Mini Project</td>
-     <td>React, Docker</td>
-    <td>Team Leader</td>
-  </tr>
-   <tr>
-    <td>Battle For Us</td>
-    <td>HUFSummer Hackathon</td>
-     <td>React + Vite</td>
-    <td>Team Leader</td>
+     <td>대상</td>
   </tr>
     <tr>
-    <td>Factoria!</td>
-    <td>SPARCS StartUp AI Hackathon</td>
-     <td>Flutter</td>
-    <td>Team Leader</td>
+    <td>HUFSummer 해커톤</td>
+    <td>Battle for us</td>
+     <td>우수상</td>
   </tr>
    <tr>
-    <td>Yello</td>
-    <td>LikeLion Central Hackathon</td>
-     <td>Kotlin, Reat + Vite</td>
-    <td>Team Leader</td>
-  </tr>
-    <tr>
+    <td>고용노동부 공공데이터 공모전</td>
     <td>항해</td>
-    <td>2024 3th Public Data Contest</td>
-     <td>Flutter</td>
-    <td>Frontend Leader</td>
+     <td>1차합격(12팀/150팀)</td>
   </tr>
-  <tr>
-    <td>New Simplify React With Vite</td>
-    <td>NPM package upload</td>
-     <td>React + Vite</td>
-    <td>myself</td>
+   <tr>
+    <td>LikeLion 12th 중앙해커톤</td>
+    <td>Yello</td>
+     <td>교내 3위</td>
+  </tr>
+   <tr>
+    <td>GBT 학부 주관 AI 해커톤</td>
+    <td>용인시 민원처리기</td>
+     <td>대상(총장성)</td>
   </tr>
 </table>
-  <br>
+  <br />
+  <br />
 
 <table align="center">
   <h2 align="center"><b>Club history</b></h3>
@@ -178,6 +112,11 @@
    <tr>
     <td>LikeLion 12th</td>
     <td>2024.01 ~ 2024.12</td>
+     <td>University</td>
+  </tr>
+   <tr>
+    <td>UMC 7th</td>
+    <td>2024.09 ~ 2024.12</td>
      <td>University</td>
   </tr>
 </table>
