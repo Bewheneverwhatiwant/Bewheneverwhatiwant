@@ -88,7 +88,13 @@
        <td>2024.10-11</td>
     <td>GBT 학부 주관 AI 해커톤</td>
     <td>용인시 민원처리기</td>
-     <td>대상(총장성)</td>
+     <td>대상(총장상)</td>
+  </tr>
+   <tr>
+       <td>2024.11-11</td>
+    <td>HUFSthon 해커톤</td>
+    <td>별자리</td>
+     <td>최우수상</td>
   </tr>
 </table>
   <br />
