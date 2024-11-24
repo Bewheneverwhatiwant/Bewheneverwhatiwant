@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </div>
 
-<h3 align="start"><b>Frontend Language</b></h3>
+<h3 align="start"><b>Language</b></h3>
 <div style="display: flex; justify-content: flex-end;">
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/>
