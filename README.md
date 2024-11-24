@@ -96,6 +96,18 @@
     <td>별자리</td>
      <td>최우수상</td>
   </tr>
+    <tr>
+       <td>2024.11-11</td>
+    <td>LikeLion 12th 연합해커톤</td>
+    <td>별책부록</td>
+     <td>대상</td>
+  </tr>
+   <tr>
+       <td>2024.11-11</td>
+    <td>LikeLion 12th 연합해커톤</td>
+    <td>행복 키오스크</td>
+     <td>플렉상</td>
+  </tr>
 </table>
   <br />
   <br />
