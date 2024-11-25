@@ -8,8 +8,8 @@
   <tr>
     <td>name</td>
     <td>University</td>
-     <td>major</td>
-    <td>Mminor</td>
+     <td>Major</td>
+    <td>Minor</td>
   </tr>
   <tr>
     <td>Nayeong-Lee</td>
@@ -24,7 +24,7 @@
 <h2 align="center"><b>🛠 Main skill 🛠</b></h3>
 <br />
 
-<h3 align="start"><b>Frontend Framework</b></h3>
+<h3 align="start"><b>Framework</b></h3>
 <div style="display: flex; justify-content: flex-start;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
@@ -105,7 +105,7 @@
    <tr>
        <td>2024.11-11</td>
     <td>LikeLion 12th 연합해커톤</td>
-    <td>행복 키오스크</td>
+    <td>행복 키오스크 (Low Code 플랫폼)</td>
      <td>플렉상</td>
   </tr>
 </table>
