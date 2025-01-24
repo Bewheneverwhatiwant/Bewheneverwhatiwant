@@ -108,6 +108,12 @@
     <td>행복 키오스크 (Low Code 플랫폼)</td>
      <td>플렉상</td>
   </tr>
+   <tr>
+      <td>2025.01-01</td>
+    <td>HUFS Better world 공모전</td>
+    <td>삐뽀삐뽀</td>
+     <td>최우수상</td>
+  </tr>
 </table>
   <br />
   <br />
