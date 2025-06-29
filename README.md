@@ -114,6 +114,12 @@
     <td>삐뽀삐뽀</td>
      <td>최우수상</td>
   </tr>
+  <tr>
+      <td>2025.06-06</td>
+    <td>HUFS Challkathon</td>
+    <td>모멘토</td>
+     <td>우수상</td>
+  </tr>
 </table>
   <br />
   <br />
