@@ -161,6 +161,11 @@
     <td>2024.09 ~ 2024.12</td>
      <td>University</td>
   </tr>
+  <tr>
+    <td>UMC 8th</td>
+    <td>2025.03 ~ 2025.08</td>
+     <td>University</td>
+  </tr>
 </table>
 
 <br />
