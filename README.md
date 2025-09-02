@@ -108,7 +108,7 @@
       <sub>Nginx</sub>
     </td>
     <td align="center" width="110">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="40" /><br/>
       <sub>AWS</sub>
     </td>
     <td align="center" width="110">
@@ -242,7 +242,7 @@
      <td>University</td>
   </tr>
    <tr>
-    <td>UMC 8th</td>
+    <td>UMC 9th</td>
     <td>2025.09 ~ 2025.12</td>
      <td>University</td>
   </tr>
