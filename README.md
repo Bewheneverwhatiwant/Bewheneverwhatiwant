@@ -21,29 +21,104 @@
 <p align="center">contact me here : lny021102@gmail.com</p>
 
 <br />
-<h2 align="center"><b>🛠 Main skill 🛠</b></h3>
-<br />
+<h2> 🚀 Tech Stack </h2>
 
-<h3 align="start"><b>Framework</b></h3>
-<div style="display: flex; justify-content: flex-start;">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-</div>
+<!-- Main Skills -->
+<p align="center">
+  <!-- React + Vite (MAIN) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" height="64" />
+  <img src="https://img.shields.io/badge/MAIN-ff9f1c?style=for-the-badge&labelColor=111&logo=star&logoColor=ff9f1c" alt="Main" />
+  &nbsp;&nbsp;&nbsp;
 
-<h3 align="start"><b>Language</b></h3>
-<div style="display: flex; justify-content: flex-end;">
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-092E20?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/javacript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</div>
+  <!-- Next.js (MAIN) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="64" />
+  <img src="https://img.shields.io/badge/MAIN-ff9f1c?style=for-the-badge&labelColor=111&logo=star&logoColor=ff9f1c" alt="Main" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Tailwind CSS (MAIN) -->
+  <img src="https://static.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind CSS" height="40" />
+  <img src="https://img.shields.io/badge/MAIN-ff9f1c?style=for-the-badge&labelColor=111&logo=star&logoColor=ff9f1c" alt="Main" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- JavaScript (MAIN) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="64" />
+  <img src="https://img.shields.io/badge/MAIN-ff9f1c?style=for-the-badge&labelColor=111&logo=star&logoColor=ff9f1c" alt="Main" />
+</p>
+
+<!-- Others -->
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/><br/>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/><br/>
+      <sub>Flutter</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-plain.svg" height="40" alt="Styled Components"/><br/>
+      <sub>Styled Components</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="MUI"/><br/>
+      <sub>MUI</sub>
+    </td>
+    <td align="center" width="110">
+      <!-- TanStack Query (react-query icon via simple-icons) -->
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/reactquery.svg" height="40" alt="TanStack Query"/><br/>
+      <sub>TanStack Query</sub>
+    </td>
+    <td align="center" width="110">
+      <!-- Zustand: 공식 아이콘 없음, 이모지 -->
+      <span style="font-size:32px;">🦫</span><br/>
+      <sub>Zustand</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest"/><br/>
+      <sub>Jest</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/><br/>
+      <sub>Spring Boot</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/><br/>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><br/>
+      <sub>Docker</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/><br/>
+      <sub>Nginx</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" /><br/>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="110">
+      <!-- 빈칸 채우기용 -->
+    </td>
+    <td align="center" width="110"></td>
+    <td align="center" width="110"></td>
+    <td align="center" width="110"></td>
+  </tr>
+</table>
 
   <br>
 <table align="center">
@@ -164,6 +239,11 @@
   <tr>
     <td>UMC 8th</td>
     <td>2025.03 ~ 2025.08</td>
+     <td>University</td>
+  </tr>
+   <tr>
+    <td>UMC 8th</td>
+    <td>2025.09 ~ 2025.12</td>
      <td>University</td>
   </tr>
 </table>
