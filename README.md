@@ -132,11 +132,25 @@
     <td>role</td>
   </tr>
   <tr>
+    <td> company </td>
+     <td>2025.01.13- ing</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Software engineer</td>
+  </tr>
+  <tr>
     <td>outsourcing</td>
-     <td>2025.6.14-2025.12.10</td>
+     <td>2025.06.14-2025.12.10</td>
     <td>티피티(TPT)</td>
     <td>TPT ver 1.0.0</td>
-    <td>PM, FE-Developer</td>
+    <td>PM, FE Developer</td>
+  </tr>
+  <tr>
+    <td>business</td>
+     <td>2025.08.28- ing</td>
+    <td>노티노티(Notinoty)</td>
+    <td>Notinoty</td>
+    <td>FE Developer</td>
   </tr>
 </table>
 
