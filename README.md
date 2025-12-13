@@ -120,6 +120,26 @@
   </tr>
 </table>
 
+<br />
+<br />
+<table align="center">
+  <h2 align="center"><b>Work</b></h3>
+  <tr>
+    <td>type</td>
+     <td>when</td>
+    <td>where</td>
+    <td>project name</td>
+    <td>role</td>
+  </tr>
+  <tr>
+    <td>outsourcing</td>
+     <td>2025.6.14-2025.12.10</td>
+    <td>티피티(TPT)</td>
+    <td>TPT ver 1.0.0</td>
+    <td>PM, FE-Developer</td>
+  </tr>
+</table>
+
   <br>
 <table align="center">
   <h2 align="center"><b>Awards</b></h3>
