@@ -133,9 +133,9 @@
   </tr>
   <tr>
     <td> company </td>
-     <td>2025.01.13- ing</td>
-    <td> - </td>
-    <td> - </td>
+     <td>2025.01.13-2026.01.05</td>
+    <td> TELUS International </td>
+    <td> Bixby Capsule </td>
     <td>Software engineer</td>
   </tr>
   <tr>
