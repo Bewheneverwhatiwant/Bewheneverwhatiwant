@@ -136,21 +136,21 @@
      <td>2025.01.13-2026.01.05</td>
     <td> TELUS International </td>
     <td> Bixby Capsule </td>
-    <td>Software engineer</td>
+    <td>Software engineer, FE engineer</td>
   </tr>
   <tr>
     <td>outsourcing</td>
      <td>2025.06.14-2025.12.10</td>
     <td>티피티(TPT)</td>
     <td>TPT ver 1.0.0</td>
-    <td>PM, FE Developer</td>
+    <td>PO/PM, FE Developer</td>
   </tr>
   <tr>
     <td>business</td>
      <td>2025.08.28- ing</td>
     <td>노티노티(Notinoty)</td>
     <td>Notinoty</td>
-    <td>FE Developer</td>
+    <td>FE Developer, Marketer/CSCX Manager</td>
   </tr>
 </table>
 
