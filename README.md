@@ -154,7 +154,7 @@
   </tr>
   <tr>
     <td>business</td>
-     <td>2025.08.28- ing</td>
+     <td>2025.08.28-2026.01.18</td>
     <td>노티노티(Notinoty)</td>
     <td>Notinoty</td>
     <td>FE Developer, Marketer</td>
