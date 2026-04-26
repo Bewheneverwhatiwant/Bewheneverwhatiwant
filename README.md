@@ -133,6 +133,13 @@
   </tr>
   <tr>
     <td> company </td>
+     <td>2026.01.19-ing</td>
+    <td> ??? </td>
+    <td> ??? </td>
+    <td>Product Operations</td>
+  </tr>
+  <tr>
+    <td> company </td>
      <td>2025.01.13-2026.01.05</td>
     <td> TELUS International </td>
     <td> Bixby Capsule </td>
@@ -150,7 +157,7 @@
      <td>2025.08.28- ing</td>
     <td>노티노티(Notinoty)</td>
     <td>Notinoty</td>
-    <td>FE Developer, Marketer/CSCX Manager</td>
+    <td>FE Developer, Marketer</td>
   </tr>
 </table>
 
