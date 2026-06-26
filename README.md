@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HUFS%20Germany%20Computer%20Nayeong&fontSize=50&animation=twinkling&text-color=black)
 
 <br>
-<a href="https://www.linkedin.com/in/%EB%82%98%EC%98%81-%EC%9D%B4-b3a2532b9/" target="_blank">
+<a href="https://www.linkedin.com/in/bewheneverwhatiwant/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
