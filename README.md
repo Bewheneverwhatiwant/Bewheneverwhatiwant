@@ -134,8 +134,8 @@
   <tr>
     <td> company </td>
      <td>2026.01.19-ing</td>
-    <td> ??? </td>
-    <td> ??? </td>
+    <td> Miso </td>
+    <td> Cleaning </td>
     <td>Product Operations</td>
   </tr>
   <tr>
